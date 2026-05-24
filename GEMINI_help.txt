@@ -1,0 +1,15 @@
+https://gemini.google.com/share/32fccb3e29b2
+https://gemini.google.com/share/dfd359b0e31f
+https://gemini.google.com/share/continue/dfd359b0e31f
+https://gemini.google.com/share/continue/dfd359b0e31f
+https://gemini.google.com/app/8bd45561109642ed
+
+Lithuania bounding box
+lt_bbox = "20.9, 53.8, 26.9, 56.5"
+api_url = "https://gas.didnt.work/api/stations"
+
+Headers to mimic a real browser
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "application/json"
+}
